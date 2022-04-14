@@ -1,29 +1,49 @@
-# Nuxt 3 Minimal Starter
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+# YouTube UI clone made with ❤️ with Nuxt.js and tailwindcss
 
-## Setup
 
-Make sure to install the dependencies
 
-```bash
-yarn install
-```
+## Run Locally
 
-## Development
-
-Start the development server on http://localhost:3000
+Clone the project
 
 ```bash
-yarn dev
+  git clone git@github.com:al-alec/youtubeclone.git ./my-project
 ```
 
-## Production
-
-Build the application for production:
+Go to the project directory
 
 ```bash
-yarn build
+  cd my-project
 ```
 
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+Install dependencies
+
+```bash
+  yarn
+```
+
+Start the server
+
+```bash
+  yarn dev
+```
+
+
+## Demo
+
+### Mobile
+Home | DropDown |
+--- | --- |
+<img src="https://github.com/al-alec/look4job_portal/blob/master/assets/index.jpg" data-canonical-src="https://github.com/al-alec/look4job_portal/blob/master/assets/index.jpg" width="100%" height="100%" /> | <img src="https://github.com/al-alec/look4job_portal/blob/master/assets/login_mobile.jpg" data-canonical-src="https://github.com/al-alec/look4job_portal/blob/master/assets/login_mobile.jpg" width="100%" height="100%" /> | <img src="https://github.com/al-alec/look4job_portal/blob/master/assets/password.jpg" width="100%" height="100%" /> |
+
+
+
+### Desktop
+Home |
+--- |
+<img src="https://github.com/al-alec/look4job_portal/blob/master/assets/home.png" width="100%" height="100%" /> |
+
+DropDown |
+--- |
+<img src="https://github.com/al-alec/look4job_portal/blob/master/assets/login.png" width="100%" height="100%" /> |
