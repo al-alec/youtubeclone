@@ -35,15 +35,15 @@ Start the server
 ### Mobile
 Home | DropDown |
 --- | --- |
-<img src="https://github.com/al-alec/look4job_portal/blob/master/assets/index.jpg" data-canonical-src="https://github.com/al-alec/look4job_portal/blob/master/assets/index.jpg" width="100%" height="100%" /> | <img src="https://github.com/al-alec/look4job_portal/blob/master/assets/login_mobile.jpg" data-canonical-src="https://github.com/al-alec/look4job_portal/blob/master/assets/login_mobile.jpg" width="100%" height="100%" /> | <img src="https://github.com/al-alec/look4job_portal/blob/master/assets/password.jpg" width="100%" height="100%" /> |
+<img src="https://github.com/al-alec/youtubeclone/blob/master/assets/img/mobile_home.jpg" width="100%" height="100%" /> | <img src="https://github.com/al-alec/youtubeclone/blob/master/assets/img/mobile_dropdown.jpg" width="100%" height="100%" />
 
 
 
 ### Desktop
 Home |
 --- |
-<img src="https://github.com/al-alec/look4job_portal/blob/master/assets/home.png" width="100%" height="100%" /> |
+<img src="https://github.com/al-alec/youtubeclone/blob/master/assets/img/home_youtube.png" width="100%" height="100%" /> |
 
 DropDown |
 --- |
-<img src="https://github.com/al-alec/look4job_portal/blob/master/assets/login.png" width="100%" height="100%" /> |
+<img src="https://github.com/al-alec/youtubeclone/blob/master/assets/img/home_drop.png" width="100%" height="100%" /> |
